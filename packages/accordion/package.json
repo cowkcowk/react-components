@@ -1,0 +1,24 @@
+{
+  "name": "@cowkcowk/react-accordion",
+  "description": "A block that displays a set of title + content items, with content collapsed by default, but expandable to view. Also includes an optional heading for the block.",
+  "version": "0.0.1",
+  "author": "HashiCorp",
+  "contributors": [
+    "Zach Shilton"
+  ],
+  "dependencies": {
+    "classnames": "^2.3.1"
+  },
+  "peerDependencies": {
+    "@hashicorp/mktg-global-styles": ">=3.x",
+    "react": ">=16.x"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cowkcowk/react-components.git",
+    "directory": "packages/accordion"
+  }
+}
